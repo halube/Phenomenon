@@ -5,4 +5,4 @@ Hardware
 - Containing 3D printable parts and PCB-Layouts
 
 Software
--Containing Dockerfiles and Python scripts
+- Containing Dockerfiles and Python scripts
