@@ -1,10 +1,20 @@
 # Phenomenon
 Low-cost and multi-sensor system for automated phenotyping of plant in vitro culture
 
-System main componets were:
--OpenBuilds ACRO 1515 60" x 60"
-![image](https://user-images.githubusercontent.com/60320902/178933324-8885929b-9863-4e65-8a0e-7c9b5c177f54.png)
+The main mechanical components of the system were:
+- OpenBuilds ACRO 1515 60" x 60" (XY gantry)
+- Openbuilds Linear Actuator (Z axis)
 
+Network connection of the system were:
+- Router & PoE-Switch
+- 2 x Raspberry Pi 4B & PoE-Shield
+- 2 x Wemos D1 Mini
+
+Sensors of the system:
+- Raspberry Pi Camera High quality 12 MB with Edmund Optics 6mm low distortion lens equipied
+- PureThermal 2 & Lepton 3.5
+- µSpectrometer Hamamatsu C12880MA
+- Laser distance sensor OD-Mini OB1-B100
 
 Hardware
 - Containing 3D printable parts and PCB-Layouts
