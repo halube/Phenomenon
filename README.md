@@ -1,2 +1,8 @@
 # Phenomenon
-Low-cost and automated phenotyping system for multi-sensor in situ monitoring in plant in vitro culture
+Low-cost and multi-sensor system for automated phenotyping of plant in vitro culture
+
+Hardware
+- Containing 3D printable parts and PCB-Layouts
+
+Software
+-Containing Dockerfiles and Python scripts
