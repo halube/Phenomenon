@@ -1,5 +1,5 @@
 # Phenomenon - Low-cost and multi-sensor system for automated phenotyping of plant in vitro culture
-This is the official code implementation and use hardware of our paper, which is currently under a journal review:
+This is the official code implementation and used hardware of our paper, which is currently under a journal review:
 
 The main mechanical components of the system were:
 - OpenBuilds ACRO 1515 60" x 60" (XY gantry)
