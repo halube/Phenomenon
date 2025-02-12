@@ -11,6 +11,7 @@ The main mechanical components of the system were:
 
 ![Software](./Fig14.png)
 
+
 Network connection & embedded system:
 - Router & PoE-Switch
 - 2 x Raspberry Pi 4B & PoE-Shield
