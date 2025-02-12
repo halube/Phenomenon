@@ -17,7 +17,6 @@ Network connection & embedded system:
 - 2 x Raspberry Pi 4B & PoE-Shield
 - 2 x Wemos D1 Mini
 
-![Robot](./Fig14.png)
 
 Sensors of the system:
 - RGB Raspberry Pi Camera High quality 12 MB with Edmund Optics 6mm low distortion lens equipied
