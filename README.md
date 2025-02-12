@@ -9,7 +9,7 @@ The main mechanical components of the system were:
 - Openbuilds Linear Actuator (Z axis)
 
 
-![Robot](./Fig14.png)
+![Software](./Fig14.png)
 
 Network connection & embedded system:
 - Router & PoE-Switch
