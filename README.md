@@ -1,6 +1,6 @@
 # Phenomenon - Low-cost and multi-sensor system for automated phenotyping of plant in vitro culture
 This is the official code implementation and used hardware of our paper, which is currently under a journal review:
-
+![Robot](./Fig14.png)
 ![Robot](./Fig2.png)
 
 
