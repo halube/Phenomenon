@@ -29,3 +29,6 @@ Hardware
 
 Software
 - Containing Dockerfiles and Python scripts
+
+Cite:
+Bethge H, Winkelmann T, Lüdeke P, Rath T. Low-cost and automated phenotyping system “Phenomenon” for multi-sensor in situ monitoring in plant in vitro culture. Plant methods. 2023 May 2;19(1):42.
